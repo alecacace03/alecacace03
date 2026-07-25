@@ -52,14 +52,6 @@
 #### 🛠️ Tools & Design
 `Xcode` • `Instruments` • `Git & GitHub` • `Figma` • `Sketch` • `Linux / Shell` • `MVC / MVVM Architecture`
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alecacace03&show_icons=true&theme=dark&aria_label=Alessandro's%20GitHub%20Stats&hide_border=true&bg_color=0c0c10&title_color=0a84ff&text_color=a1a1a6&icon_color=30d158" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecacace03&layout=compact&theme=dark&aria_label=Top%20Languages&hide_border=true&bg_color=0c0c10&title_color=0a84ff&text_color=a1a1a6" alt="Top Languages" width="49%"/>
-</div>
 
 ---
 
