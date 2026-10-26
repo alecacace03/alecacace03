@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <a href="https://alecacace03.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Live_Website-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://alessandrocacace.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live_Website-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/alessandro-cacace-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:alecacace03@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_Me-30D158?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/></a>
   </p>
